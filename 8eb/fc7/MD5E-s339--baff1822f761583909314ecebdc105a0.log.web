@@ -1,0 +1,12 @@
+1787356803s 1 https://dandiarchive.s3.amazonaws.com/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/units/peak_of_aligned_optimized_waveform/.zarray?versionId=40ao4feANZcS88UFo8_29rXIdPa0k2MF
+1787356803s 1 https://api.dandiarchive.org/api/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/files?prefix=units%2Fpeak_of_aligned_optimized_waveform%2F.zarray&download=true
+1787356803s 1 https://dandiarchive.s3.amazonaws.com/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/units/peak_of_aligned_waveform/.zarray?versionId=umNLf4hmwyFbF08c1.6r1Ka6CUkP1zU9
+1787356803s 1 https://api.dandiarchive.org/api/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/files?prefix=units%2Fpeak_of_aligned_waveform%2F.zarray&download=true
+1787356803s 1 https://dandiarchive.s3.amazonaws.com/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/units/peak_of_optimized_waveform/.zarray?versionId=qcxhfk2B_mFwlan2IQQJUdh.N9Y6lhMr
+1787356803s 1 https://api.dandiarchive.org/api/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/files?prefix=units%2Fpeak_of_optimized_waveform%2F.zarray&download=true
+1787356803s 1 https://dandiarchive.s3.amazonaws.com/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/units/peak_of_waveform/.zarray?versionId=V9VpXWottcP7a7TCsKDBJuLDPUb1xkq2
+1787356803s 1 https://api.dandiarchive.org/api/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/files?prefix=units%2Fpeak_of_waveform%2F.zarray&download=true
+1787356803s 1 https://dandiarchive.s3.amazonaws.com/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/units/peak_waveform_aligned_fake_raw/.zarray?versionId=W7Xa2uey4Gp1j71wr60bv.Jrsqw5NUX3
+1787356803s 1 https://api.dandiarchive.org/api/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/files?prefix=units%2Fpeak_waveform_aligned_fake_raw%2F.zarray&download=true
+1787356812s 1 https://dandiarchive.s3.amazonaws.com/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/units/waveform_on_peak_channel_of_aligned_raw_waveform/.zarray?versionId=MjzQkHXhCQHKObS7tUumhfCOu3e.2ch2
+1787356812s 1 https://api.dandiarchive.org/api/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/files?prefix=units%2Fwaveform_on_peak_channel_of_aligned_raw_waveform%2F.zarray&download=true

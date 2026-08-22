@@ -1,0 +1,10 @@
+1787356788s 1 https://dandiarchive.s3.amazonaws.com/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/general/aind_metadata/json_data/.zarray?versionId=bps.shPIc26.PpZSeSPEoeBBBY0RfF5F
+1787356788s 1 https://api.dandiarchive.org/api/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/files?prefix=general%2Faind_metadata%2Fjson_data%2F.zarray&download=true
+1787356788s 1 https://dandiarchive.s3.amazonaws.com/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/general/institution/.zarray?versionId=iOes.gVgLDlsJU8c45qGNg08JBIqCAnc
+1787356788s 1 https://api.dandiarchive.org/api/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/files?prefix=general%2Finstitution%2F.zarray&download=true
+1787356788s 1 https://dandiarchive.s3.amazonaws.com/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/general/session_id/.zarray?versionId=hSvxaoW4i1Mk64D6HE.UMGmf3XKoOiMf
+1787356788s 1 https://api.dandiarchive.org/api/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/files?prefix=general%2Fsession_id%2F.zarray&download=true
+1787356788s 1 https://dandiarchive.s3.amazonaws.com/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/identifier/.zarray?versionId=w3rCI9tZIkDmXgqBe0Q6RZ9GwBAKKWyo
+1787356788s 1 https://api.dandiarchive.org/api/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/files?prefix=identifier%2F.zarray&download=true
+1787356793s 1 https://dandiarchive.s3.amazonaws.com/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/session_description/.zarray?versionId=qbcMAOCKEwvCKJarLu48hhVNymbv6gQf
+1787356793s 1 https://api.dandiarchive.org/api/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/files?prefix=session_description%2F.zarray&download=true

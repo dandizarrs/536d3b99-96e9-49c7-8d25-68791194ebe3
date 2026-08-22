@@ -1,0 +1,6 @@
+1787356788s 1 https://dandiarchive.s3.amazonaws.com/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/intervals/trials/ITI_min/0?versionId=XnK20hk3n9O9XWzkLdSQ2x3mxMo.Xw3D
+1787356788s 1 https://api.dandiarchive.org/api/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/files?prefix=intervals%2Ftrials%2FITI_min%2F0&download=true
+1787356792s 1 https://dandiarchive.s3.amazonaws.com/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/intervals/trials/reward_size_left/0?versionId=UQ4zeep66Fl18w_AHMv45ZTG5MSsBHhZ
+1787356792s 1 https://api.dandiarchive.org/api/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/files?prefix=intervals%2Ftrials%2Freward_size_left%2F0&download=true
+1787356792s 1 https://dandiarchive.s3.amazonaws.com/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/intervals/trials/reward_size_right/0?versionId=jK0t8YLrR.SupobOTorUq9KU_3OsHPxY
+1787356792s 1 https://api.dandiarchive.org/api/zarr/536d3b99-96e9-49c7-8d25-68791194ebe3/files?prefix=intervals%2Ftrials%2Freward_size_right%2F0&download=true
